@@ -8,6 +8,10 @@ GPU/ CPU
 RAM / Memory
 Storage Device: SSD
 Input Devices: Mouse, Keyboard, monitor.
+
+
+
+
 ![C1](https://user-images.githubusercontent.com/91911272/229429632-8bf576d0-d648-4ed5-9f7f-d9ee9f20978b.PNG)
 ![C2](https://user-images.githubusercontent.com/91911272/229429637-f43345b3-00d4-4cb3-89d1-40a2a1cf3d8d.PNG)
 ![C3](https://user-images.githubusercontent.com/91911272/229429640-c63b8c9c-fd3a-4f25-a20c-2bffe375693c.PNG)
